@@ -20,6 +20,8 @@
             <textarea name="content"></textarea>
         </div>
         <input type="submit" value="送信">
+
+        
     </form>
 </body>
 </html>
